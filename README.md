@@ -24,5 +24,7 @@ Both models demonstrated strong classification performance, with DistilBERT slig
 <br><br>
 
 **Dataset:** https://www.kaggle.com/datasets/arunavakrchakraborty/covid19-twitter-dataset?select=Covid-19+Twitter+Dataset+%28Aug-Sep+2020%29.csv
+<br>
 **DistilBERT**: https://huggingface.co/distilbert/distilbert-base-uncased
+<br>
 **BERTweet**: https://huggingface.co/vinai/bertweet-base
